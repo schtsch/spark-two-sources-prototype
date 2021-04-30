@@ -1,7 +1,7 @@
 import uuid
 
-guids_cnt = 100
-repeats_cnt = 10
+guids_cnt = 3
+repeats_cnt = 5
 events_file_path = 'data/events.csv'
 ref_file_path = 'data/refs.csv'
 

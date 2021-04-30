@@ -1,1 +1,7 @@
 target
+data/streaming-data/*
+data/streaming-ref/*
+data/checkpoints
+.idea
+.bsp
+*.iml
